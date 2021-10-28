@@ -1,1 +1,2 @@
-# MyHorseRacing
+# horserace
+Nicks silly horse racing game
