@@ -20,6 +20,16 @@ let horseX=[]
 
 let colors=["red","blue","orange","cyan","magenta","yello","black","turqoise","lilac","white"]
 
+class Horse{
+    element
+    x
+    constructor(element,y){
+    element.style.
+    element.style.backgroundColor-colors[h]
+    
+    }
+}
+
 
 
 
